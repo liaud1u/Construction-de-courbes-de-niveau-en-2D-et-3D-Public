@@ -3,8 +3,6 @@
 
 #include <dirent.h>
 
-#include "lagrangeinterpolation.h"
-
 #define DEF 10
 #define MARCHING 1
 #define DEBUG false
@@ -55,10 +53,9 @@ int main(int argc, char *argv[])
 
     myfile.close();*/
 
-
-    //"Data/DepthHand/Depth_P1_G0_3.png"
+ 
     // "Data/kimia99/diago.png"
-    MarchingSquare marching("Data/DepthHand/Depth_P1_G0_3.png",MARCHING,DEF, {25,50,100,140});
+    MarchingSquare marching("Data/Kimia99/bunny04.png",MARCHING,DEF, {25,50,100,140});
 
 
     /*for(int i = 0; i< 100; i++){
