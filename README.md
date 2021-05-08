@@ -5,6 +5,9 @@ Dans le domaine d’infographie, il existe des algorithmes permet de construire 
 ## Sujet :
 Les méthodes de marching squares et marching cubes utilisent souvent de table de correspondance (Look-Up-Table – LUT) pour la construction des isosurfaces, et aussi l’interpolation de champs scalaires pour calculer la position exacte des isosurfaces. La réalisation du travail consistera à implémenter les deux méthodes de marching squares et marching cubes dans la littérature en utilisant LUT et des différents méthodes d’interpolation comme l’interpolation linéaire, bilinéaire, cubique, . . . La parallélisation de la méthode sera également considérée.
 
+## Dépôt :
+Ce dépôt n'est pas le dépôt utilisé pour le développement de l'application. Le dépôt initial contenant des fichiers ne pouvant être divulguées publiquement (base de données utilisée lors du développement), nous avons choisit de faire une copie publique afin que ces derniers n'apparaissent pas. 
+
 ## References:
 [1] Lorensen, W. E.; Cline, Harvey E. (1987). "Marching cubes: A high resolution 3d surface construction algorithm". ACM Computer Graphics. 21 (4): 163–169.
 
