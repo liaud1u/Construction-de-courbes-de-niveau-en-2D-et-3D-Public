@@ -4,8 +4,11 @@ Ce dépôt contient le code développé lors de l'UE Initiation à la Recherche 
 
 
 ## Auteurs: 
+
 Adham BADAWY
+
 Alexis LIAUD
+
 Jordan SCHERRING
 
 ## Problématique de recherche :
@@ -23,5 +26,6 @@ Ce dépôt n'est pas le dépôt utilisé pour le développement de l'application
 ## References du sujet:
 
 [1] Lorensen, W. E.; Cline, Harvey E. (1987). "Marching cubes: A high resolution 3d surface construction algorithm". ACM Computer Graphics. 21 (4): 163–169.
+
 [2] Maple, C. (2003). Geometric design and space planning using the marching squares and marching cube algorithms. Proc. 2003 Intl. Conf. Geometric Modeling and Graphics. pp. 90-95.
 
