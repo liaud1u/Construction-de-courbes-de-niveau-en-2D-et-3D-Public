@@ -48,9 +48,6 @@ HEADERS += \
     unionfind.h \
     akimainterpolation.h
 
-FORMS += \
-    mainwindow.ui
-
 
 RESOURCES = Data
 
